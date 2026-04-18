@@ -1,4 +1,4 @@
-   body {
+body {
         margin: 0;
         font-family: Arial, sans-serif;
         background: linear-gradient(to bottom, #0a1f44, #1e3a5f);
@@ -11,7 +11,11 @@
         max-width: 400px;
         margin: auto;
     }
-
+    .perfil{
+        padding: 20px;
+        max-width: 400px;
+        margin: auto;
+    }
     .perfil img {
         width: 100px;
         border-radius: 50%;
